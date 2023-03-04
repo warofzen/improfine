@@ -1,0 +1,13 @@
+name = "Tiny Item Animations"
+filename = "tia-1.19.3-1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "553e3907448a6273f773950e64620918f8e7d930"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4362497
+project-id = 808006

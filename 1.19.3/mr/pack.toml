@@ -1,0 +1,13 @@
+name = "ImproFine"
+author = "warofzen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87fb1056dfb7565de8214e6ad8606152cc92f172f2fcebd3a2466a9ccb4e9e88"
+
+[versions]
+fabric = "0.14.17"
+minecraft = "1.19.3"
